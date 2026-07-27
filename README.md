@@ -14,6 +14,3 @@ I'm **Gabriel de Araujo Ziglio**, an **Associate Degree student in Systems Analy
 - 📧 **Email:** your-email@example.com
 - 💼 **LinkedIn:** - 💼 **LinkedIn:** [Gabriel Ziglio](https://www.linkedin.com/in/gabriel-ziglio-708981371/)
 
-<p align="center">
-  <img src="assets/nidoran.gif" width="250" alt="Nidoran">
-</p>
