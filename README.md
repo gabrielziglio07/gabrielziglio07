@@ -12,5 +12,5 @@ I'm **Gabriel de Araujo Ziglio**, an **Associate Degree student in Systems Analy
 ## Let's Connect! 🤝
 
 - 📧 **Email:** gabrielziglio07@gmail.com
-- 💼 **LinkedIn:** - 💼 **LinkedIn:** [Gabriel Ziglio](https://www.linkedin.com/in/gabriel-ziglio-708981371/)
+- 💼 **LinkedIn:** [Gabriel Ziglio](https://www.linkedin.com/in/gabriel-ziglio-708981371/)
 
