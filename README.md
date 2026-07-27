@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my GitHub! 👋
 
-<!--
-**gabrielziglio07/gabrielziglio07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm **Gabriel de Araujo Ziglio**, an **Associate Degree student in Systems Analysis and Development** at **FATEC Ourinhos**, Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Interests:** Passionate about Full-Stack Development, with a strong focus on Web Development.
+- 🛠 **Currently Learning:** HTML, CSS, JavaScript and Python.
+- 💡 **Mindset:** Curious by nature, always looking for new challenges and opportunities to grow.
+- 📂 **Projects:** I use this space to organize, document and share the projects I build throughout my learning journey.
+
+## Let's Connect! 🤝
+
+- 📧 **Email:** your-email@example.com
+- 💼 **LinkedIn:** - 💼 **LinkedIn:** [Gabriel Ziglio](https://www.linkedin.com/in/gabriel-ziglio-708981371/)
+
+<p align="center">
+  <img src="assets/nidoran.gif" width="250" alt="Nidoran">
+</p>
